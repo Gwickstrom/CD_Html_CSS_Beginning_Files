@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <meta charset="utf-8">
+            <title>Basic I</title>
+            <meta name="description" content="Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            Nulla facilisis, urna sit amet mattis varius, metus
+            nulla faucibus mi, eu faucibus justo enim in orci.">
+        </head>
+        <body>
+            <h1>What language do you love?</h1>
+            <p>I love HTML!</p>
+        </body>
+    </html>

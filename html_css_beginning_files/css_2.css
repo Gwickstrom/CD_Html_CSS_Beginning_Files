@@ -1,0 +1,7 @@
+div.img {
+	height: 20px; width: 20px; margin: 10px;
+	padding: 20px;
+	background-color: white;
+	border-color: blue;
+	border-width: 5px;
+}
